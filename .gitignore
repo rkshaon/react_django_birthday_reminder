@@ -9,7 +9,7 @@
 /react_birthday_reminder/coverage
 
 # production
-/react_birthday_reminder/build
+/build
 
 # misc
 .DS_Store
