@@ -3,13 +3,16 @@
 
 ## Requirements
 1. You need to install Python (`https://www.python.org/downloads/`)
-2. You need to install Django (`$ python -m pip install Django`)
 3. You need to install node (`https://nodejs.org/en/download/`)
 4. You need to install npm (`https://www.npmjs.com/get-npm`)
 5. You need to install npx (`https://www.npmjs.com/package/npx`)
 
 ## How to run?
+Open CLI
+Type makedir project
+$ cd project
 $ git clone `https://github.com/rkshaon/react_django_birthday_reminder.git`\
+$ pip install -r requirements.txt
 $ cd react_birthday_reminder\
 $ npm run build\
 $ cd ..\
