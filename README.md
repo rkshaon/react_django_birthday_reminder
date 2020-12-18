@@ -8,10 +8,10 @@
 5. You need to install npx (`https://www.npmjs.com/package/npx`)
 
 ## How to run?
-Open CLI and type makedir project and hit enter\
+Open CLI and type mkdir project and hit enter\
 $ cd project\
 $ git clone `https://github.com/rkshaon/react_django_birthday_reminder.git`\
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt\
 $ cd react_birthday_reminder\
 $ npm run build\
 $ cd ..\
